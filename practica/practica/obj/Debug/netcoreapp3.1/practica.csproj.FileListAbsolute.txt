@@ -1,0 +1,14 @@
+E:\wpf\practica\practica\bin\Debug\netcoreapp3.1\practica.exe
+E:\wpf\practica\practica\bin\Debug\netcoreapp3.1\practica.deps.json
+E:\wpf\practica\practica\bin\Debug\netcoreapp3.1\practica.runtimeconfig.json
+E:\wpf\practica\practica\bin\Debug\netcoreapp3.1\practica.runtimeconfig.dev.json
+E:\wpf\practica\practica\bin\Debug\netcoreapp3.1\practica.dll
+E:\wpf\practica\practica\bin\Debug\netcoreapp3.1\practica.pdb
+E:\wpf\practica\practica\obj\Debug\netcoreapp3.1\practica.csproj.AssemblyReference.cache
+E:\wpf\practica\practica\obj\Debug\netcoreapp3.1\practica.GeneratedMSBuildEditorConfig.editorconfig
+E:\wpf\practica\practica\obj\Debug\netcoreapp3.1\practica.AssemblyInfoInputs.cache
+E:\wpf\practica\practica\obj\Debug\netcoreapp3.1\practica.AssemblyInfo.cs
+E:\wpf\practica\practica\obj\Debug\netcoreapp3.1\practica.csproj.CoreCompileInputs.cache
+E:\wpf\practica\practica\obj\Debug\netcoreapp3.1\practica.dll
+E:\wpf\practica\practica\obj\Debug\netcoreapp3.1\practica.pdb
+E:\wpf\practica\practica\obj\Debug\netcoreapp3.1\practica.genruntimeconfig.cache
